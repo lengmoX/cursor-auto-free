@@ -47,4 +47,3 @@ https://linux.do/
  <img src="./screen/mm_facetoface_collect_qrcode_1738583247120.png" width="300"/>
 
 
-
